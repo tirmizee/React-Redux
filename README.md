@@ -1,5 +1,8 @@
-# React-Redux
+## Redux
 Redux คือ container ที่เก็บ state สำหรับ JS
+
+## React-Redux
+React-Redux คือการพูกรวม React เข้ากับ Redux
 
 ### Redux concep
 

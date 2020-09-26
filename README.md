@@ -12,6 +12,7 @@ React-Redux คือการพูกรวม React เข้ากับ Red
 Provider ทำให้ Redux store พร้อมใช้งานสำหรับ App 
 
 ### connect()
+ช่วยให้สามารถเชื่อมต่อ React component กับ Redux store
 
 ### Redux concep
 

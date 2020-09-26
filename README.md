@@ -7,6 +7,11 @@ React-Redux คือการพูกรวม React เข้ากับ Red
 ## การติดตั้ง
 
     npm install react-redux
+    
+### Provider
+Provider ทำให้ Redux store พร้อมใช้งานสำหรับ App 
+
+### connect()
 
 ### Redux concep
 

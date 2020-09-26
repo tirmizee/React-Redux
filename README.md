@@ -1,5 +1,5 @@
 # React-Redux
-
+Redux คือ container ที่เก็บ state สำหรับ JS
 
 ### Redux concep
 

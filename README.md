@@ -2,7 +2,7 @@
 Redux คือ container ที่เก็บ state สำหรับ JS
 
 ## React-Redux
-React-Redux คือการพูกรวม React เข้ากับ Redux
+React-Redux คือการพูกรวม React เข้ากับ Redux ช่วยให้ React components อ่านข้อมูลจาก Redux store
 
 ### Redux concep
 
